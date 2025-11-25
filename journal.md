@@ -4,7 +4,7 @@
 - A tool that calculates age in years/days
 - A simple chatbot using LangChain
 - Automations for daily tasks
-- A product demo using AI coding helpers
+- A design product demo using AI coding helpers
 
 ## Why I want to build this
 I want to learn Python basics and then use AI tools (Cursor, ChatGPT, Cloud Code, etc.) to speed up development.
